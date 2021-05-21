@@ -1,5 +1,7 @@
 # 浏览器信息
 
+快速访问： http://blog.wangyuanqi.com/browser/
+
 ## 浏览器：
 
 Chrome - 谷歌浏览器
